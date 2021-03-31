@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Paramet_test_2" />
+        <module name="Paramet_test_2.4.1_DZ" />
       </profile>
     </annotationProcessing>
   </component>
